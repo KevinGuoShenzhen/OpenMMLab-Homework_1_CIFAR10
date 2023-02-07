@@ -1,0 +1,2 @@
+# OpenMMLab-Homework_1_CIFAR10
+OpenMMLab第一次作业的挑战题目，对CIFAR10数据做训练并保存结果
